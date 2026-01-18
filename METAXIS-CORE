@@ -1,1 +1,8 @@
+-- [[ METAXIS BOOT SYSTEM ]] --
+print("💜 METAXIS: Estabelecendo conexao com o servidor GitHub...")
+
+-- Carrega o design roxo do seu repositório oficial
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ReaperXploits666X/METAXIS-OFFICIAL/main/UI.lua"))()
+
+warn("🛡️ METAXIS: Bypass Antiban Ativado!")
 
